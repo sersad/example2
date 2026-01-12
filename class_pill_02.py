@@ -2,13 +2,13 @@ from PIL import Image, ImageDraw
 
 
 name = "wolf.png"
-# color = input()
-# size = int(input())
-color = "#ABE1F7"
+color = input()
+size = int(input())
+# color = "#ABE1F7"
 wolf_color = "#D1D1D1"
 outline_color = "#595959"
 wolf2_color = "#595959"
-size = 20
+# size = 20
 size_width = size // 20
 width = 19 * size
 height = 18 * size
